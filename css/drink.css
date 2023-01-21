@@ -1,0 +1,154 @@
+
+
+       .nav{
+         background: rgba(37, 16, 68, 0.804) !important;
+         margin-bottom: 2px;
+     
+        }
+        ul{
+            width: 120%;
+        }
+        nav ul li {
+          margin-left: 20px ;
+        }
+
+
+        .follow{
+            background-color: white !important;
+        }
+       
+        .company-up-info img{
+            width: 300px !important;
+           height: 200px !important;
+           border-radius: 20% !important;
+           padding: 10px !important;
+        }
+     
+        
+        .follow {
+            height: 30px !important;
+            border: 2px solid rgba(0, 0, 0, 0.185);
+            text-align: center !important;
+            border-radius: 20px !important;
+        }
+        .company_profile_info {
+            border-radius: 20px !important;
+        }
+        .company_profile_info button{
+            background-color: rgb(150, 3, 3) !important;
+        }
+        .message-us{
+            color: white !important;
+        }
+    
+  .text-footer{
+    margin-left: 40px !important ;
+  }
+  .color{
+      color: rgba(0, 0, 255, 0.646) !important;
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  .text-footer{
+  margin-left: 40px !important ;
+}
+.text-footer{
+    text-align: center !important;
+    margin-bottom: 20px;
+}
+.footer-teext{
+    text-align: center;
+}
+.shol{
+    margin-right: 510px !important;
+}
+.body-footer .gps{
+    width: 100% !important;
+}
+
+
+.top-profiles{
+    border: 0px !important;
+}
+.main-ws-sec{
+width: 200% !important;
+margin-left: 60px !important;
+}
+.slid-lift{
+    margin-left: 20px !important;
+}
+.user-profy{
+height: 200px !important;
+}
+.img-slider{
+  position: relative;
+  bottom: 36px !important;
+  width: 480px;
+}
+
+
+
+@media only screen and (min-width:500px) and (max-width:940px){
+   .footer1 {
+       padding: 0px 0px !important;
+       margin: 0% !important;
+        width: 70% !important;
+        margin: auto !important;
+        text-align: center !important;
+    }
+}
+@media only screen and (min-width:500px) and (max-width:940px){
+.gps  {
+       padding: 0px 0px !important;
+        width: 100% !important;
+        height: 200px !important;
+        margin: auto !important;
+        border-radius: 20px !important;
+        text-align: center !important;
+        
+    }
+    .body-footer{
+        width: 120% !important;
+        position: relative;
+        right: 50px;
+    }
+}
+
+@media only screen and (min-width:940px) and (max-width:1354px){
+.gps {
+       padding: 0px 0px !important;
+      
+        width: 80% !important;
+        height: 400px !important;
+        margin: auto !important;
+        border-radius: 20px !important;
+        text-align: center !important;
+    }
+}
+@media only screen and (min-width:500px) and (max-width:557px){
+    .shol {
+        width: 110% !important;
+    }
+    .gps{
+        margin: auto !important;
+    }
+}
+@media only screen and (min-width:557px) and (max-width:780px){
+    .shol {
+        width: 110% !important;
+    }
+    .gps{
+        margin: auto !important;
+    }
+}
+@media only screen and (min-width:778) and (max-width:940px){
+    .shol {
+        width: 110% !important;
+        margin-left: 100px !important;
+    }
+    .gps{ 
+        margin: auto !important;
+    }
+}
+  
+        
+    

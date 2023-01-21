@@ -1,0 +1,210 @@
+
+    .nav{
+      background: rgba(37, 16, 68, 0.804) !important;
+      margin-bottom: 2px;
+    
+    }
+    ul{
+      width: 120%;
+    }
+    nav ul li {
+      margin-left: 20px ;
+    }
+    .row{
+   margin-left: -45px;
+    }
+    .company-title{
+        height: 30px;
+    }
+    .Best{
+        text-align: center;
+         border-radius: 10px;
+         font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color: rgba(95, 18, 18, 0.859) !important;
+
+    }
+    .col-lg-3{
+      margin: 0px 40px 0px 40px;
+    }
+    .company_profile_info{
+      border-radius: 15px !important;
+    }
+  .company-up-info img {
+    width: 80%;
+    height: 220px;
+    border-radius: 30px !important;
+    object-fit: cover !important;
+  }
+  .Reservation{
+      width: 30% ;
+      height: 35px;
+      background-color: rgba(216, 142, 5, 0.867);
+      color: white;
+      border: 0px;
+      margin-top: 20px;
+      position: relative;
+      bottom: 200px;
+      
+  }
+  .Reservation:hover{
+      background-color: rgb(121, 2, 2);
+      border-radius: 10px;
+      font-size: 15;
+      
+  }
+  .card-text{
+      position: relative;
+      top: 5px;
+  }
+  .img-card:hover{
+    width: 81%;
+    height: 230px;
+    transition: 0.4s width , 0.4s height  ;
+   
+  }
+  .slid img{
+   width: 100%;
+   height: 400px;
+  }
+  .col-lg-3 .card2{
+      width: 140% !important;
+      height: 390px !important;
+  }
+  .bg-dark{
+    background-color: rgba(12, 12, 12, 0.771) !important;
+    height: 400px !important;
+    width: 98% !important;
+    border-radius: 20px;
+    margin-left: 20px !important;
+    margin-bottom: 10px !important;
+  }
+  .text-footer{
+    margin-left: 40px !important ;
+  }
+  .color{
+      color: rgba(0, 0, 255, 0.646) !important;
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  .text-footer{
+  margin-left: 40px !important ;
+}
+.color{
+    color: rgba(0, 0, 255, 0.646) !important;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.text-footer{
+    text-align: center !important;
+    margin-bottom: 20px;
+}
+.footer-teext{
+    text-align: center;
+}
+.shol{
+    margin-right: 510px !important;
+}
+.body-footer .gps{
+    width: 100% !important;
+}
+
+
+
+.top-profiles{
+    border: 0px !important;
+}
+.main-ws-sec{
+width: 200% !important;
+margin-left: 60px !important;
+}
+
+.user-profy{
+height: 200px !important;
+width: 480px; 
+
+}
+
+.img-slider{
+  position: relative;
+  bottom: 36px !important;
+  width: 480px;
+
+ 
+}
+
+
+
+
+  @media only screen and (min-width:500px) and (max-width:557px){
+      .col-lg-3 .card2{
+      width: 80% !important;
+  }
+  }
+  @media only screen and (min-width:557px) and (max-width:577px){
+      .col-lg-3 .card2{
+      width: 80% !important;
+  }
+  }
+  @media only screen and (min-width:500px) and (max-width:940px){
+   .footer1 {
+       padding: 0px 0px !important;
+       margin: 0% !important;
+        width: 70% !important;
+        margin: auto !important;
+        text-align: center !important;
+    }
+}
+@media only screen and (min-width:500px) and (max-width:940px){
+.gps  {
+       padding: 0px 0px !important;
+        width: 100% !important;
+        height: 200px !important;
+        margin: auto !important;
+        border-radius: 20px !important;
+        text-align: center !important;
+        
+    }
+    .body-footer{
+        width: 120% !important;
+        position: relative;
+        right: 50px;
+    }
+}
+
+@media only screen and (min-width:940px) and (max-width:1354px){
+.gps {
+       padding: 0px 0px !important;
+      
+        width: 80% !important;
+        height: 400px !important;
+        margin: auto !important;
+        border-radius: 20px !important;
+        text-align: center !important;
+    }
+}
+@media only screen and (min-width:500px) and (max-width:557px){
+    .shol {
+        width: 110% !important;
+    }
+    .gps{
+        margin: auto !important;
+    }
+}
+@media only screen and (min-width:557px) and (max-width:780px){
+    .shol {
+        width: 110% !important;
+    }
+    .gps{
+        margin: auto !important;
+    }
+}
+@media only screen and (min-width:778) and (max-width:940px){
+    .shol {
+        width: 110% !important;
+        margin-left: 100px !important;
+    }
+    .gps{ 
+        margin: auto !important;
+    }
+}
+  
+  
+  
